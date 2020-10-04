@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.restassuredapitesting.runners.Contract
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.345 s - in br.com.restassuredapitesting.runners.Contract
